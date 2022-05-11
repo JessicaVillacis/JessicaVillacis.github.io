@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: circus.png
+alt: image-alt
+project-date: Mayo 2022
+client: Villacis Jessica
+category: Educación
+description: Genially, una herramienta web que utilizo con mayor frecuencia para realizar presentaciones visuales e interactivas porque cuenta con plantillas ya diseñadas que los estudiantes pueden modificar en equipo y tener un apoyo didáctico para sus presentaciones.
+---

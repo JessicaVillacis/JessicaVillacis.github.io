@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: cake.png
+alt: image-alt
+project-date: Mayo 2022
+client: Villacis Jessica
+category: Educación
+description: He utilizado Canva para el diseño de presentaciones y publicaciones en redes sociales, considerando que es una herramienta en línea gratuita, al tener conocimientos básicos de diseño gráfico puedo sacar el máximo provecho de dicha herramienta digital.
+---

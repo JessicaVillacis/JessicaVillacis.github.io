@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: safe.png
+alt: image-alt
+project-date: Mayo 2022
+client: Villacis Jessica
+category: Educación
+description: Classcraft plataforma digital que utilizo para generar un entorna lúdico y motivacional en los estudiantes, considero que como docentes implementemos esta plataforma en el aula como un apoyo más.
+---

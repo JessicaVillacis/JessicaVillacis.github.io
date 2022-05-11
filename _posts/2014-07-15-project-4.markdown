@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: game.png
+alt: image-alt
+project-date: Mayo 2022
+client: Villacis Jessica
+category: Educación
+description: Hot Potatoes tambien considero de ayuda para la gestión docente en la que he elaborado algunos contenidos digitales a manera de contenidos digitales alojados en una página web, que se puede aplicar en diferentes modalidades.
+---
